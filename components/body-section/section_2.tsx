@@ -37,13 +37,8 @@ const Section_2 = () => {
             a Full Stack Developer
           </span>
         </div>
-<<<<<<< HEAD
         <p className=" animate-slideleftT3 text-[14px] sm:text-[14px] md:text-[16px] text-slate-400 mb-[18px]">
             As a Full Stack Developer, I'm passionate about crafting versatile web applications with the latest tech stack used in the industry that creates an impact. This portfolio is a showcase of my past works and projects.
-=======
-        <p className=" animate-slideleftT3 text-[14px] sm:text-[14px] md:text-[18px] text-slate-400 mb-[18px]">
-            As a Junior Full Stack Developer, I'm passionate about mastering front-end and back-end technologies to craft versatile web applications.
->>>>>>> 778b9892c75fa5ddd5177fd8691b135ca4de1990
         </p>
         <a
           href="#Section_4"
