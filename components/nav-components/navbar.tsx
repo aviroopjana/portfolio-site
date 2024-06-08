@@ -11,7 +11,11 @@ const Navbar:React.FC = () => {
                             border-[#7042f861] px-[20px]
                             py-[10px] rounded-full "
                         >
+<<<<<<< HEAD
                             <Link href={"/about-me"} className="Nav_text">
+=======
+                            <Link href={"/Project"} className="Nav_text">
+>>>>>>> 778b9892c75fa5ddd5177fd8691b135ca4de1990
                                 About Me
                             </Link>
                             <Link href={"/Project"} className="Nav_text">
